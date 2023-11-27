@@ -31,4 +31,6 @@ Bu proje 8-season-friday-project tarafından geliştirilmiş olup, lisans bilgil
 
 Bu README dosyası, projenin genel yapısı, nasıl çalıştırılacağı ve katkıda bulunma süreci gibi bilgileri içermektedir. Projenin detaylarına ve gereksinimlerine göre README dosyası daha detaylı veya farklı bilgiler içerebilir.
 
-<h2>  </h2>
+<h2>Ekran Görüntüsü</h2>
+
+![](Neptune.gif)
